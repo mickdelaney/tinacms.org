@@ -6,7 +6,7 @@ next: /docs/getting-started/how-tina-works
 ---
 Tina is a **lightweight but powerful toolkit** for creating a content editing interface with JavaScript components. Tina surfaces superpowers for developers to create an intuitive UI for real-time content editing, built directly into their website.
 
-## The Next Generation of Content Management
+## The Next **Generation** of Content Management
 
 ![tina-gif](https://res.cloudinary.com/forestry-demo/video/upload/du_16,w_700,e_loop/v1571159974/tina-hero-demo.gif)
 
